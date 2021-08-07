@@ -5,7 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * https://github.com/roandr1970/KeyValidator/issues/1
-* 
+* https://github.com/roandr1970/KeyValidator/issues/2
 
 
 ## Описание процесса тестирования
