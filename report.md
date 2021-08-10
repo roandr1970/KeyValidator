@@ -5,7 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 * [Некорректные валидные ключи](https://github.com/roandr1970/KeyValidator/issues/1)
-* [некорректный невалидный ключ](https://github.com/roandr1970/KeyValidator/issues/2)
+* [Некорректный невалидный ключ](https://github.com/roandr1970/KeyValidator/issues/2)
 
 
 ## Описание процесса тестирования
