@@ -4,7 +4,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Некорректные валидные ключи](https://github.com/roandr1970/KeyValidator/issues/1)
+* [Выявлены некорректные валидные ключи в приложении при их проверке](https://github.com/roandr1970/KeyValidator/issues/1)
 * [Некорректный невалидный ключ](https://github.com/roandr1970/KeyValidator/issues/2)
 
 
